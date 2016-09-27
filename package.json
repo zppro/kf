@@ -1,6 +1,6 @@
 {
   "name": "kf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ke fu imp by socket",
   "main": "lib/index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/zppro/kf#readme",
   "dependencies": {
+    "jquery": "^3.1.1",
     "socket.io": "^1.4.8"
   },
   "devDependencies": {
